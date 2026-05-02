@@ -1,5 +1,5 @@
 # Continuous Integration, Static Analysis & Test Automation
-
+## Romane Sauldubois, Elnaz Shamseddini, Paul Potier et Abtin Rashedi
 Cette Pull Request explique la mise en place d'une chaîne complète de **Continuous Integration (CI)** incluant la compilation, l’analyse statique et l’exécution automatisée des tests pour le backend et le frontend.
 
 
